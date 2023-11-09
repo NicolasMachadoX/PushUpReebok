@@ -1,0 +1,11 @@
+.shopContainer{
+    
+    background-color: black;
+    width: 95em;
+    height: 50em;
+}
+.imgCart{
+    border-radius: 0.5em;
+    width: 5em;
+    height: 5em;
+}
